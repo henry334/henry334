@@ -17,10 +17,10 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="35" height="35"/>](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" width="35" height="35"/>](https://nodejs.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="35" height="35"/>](https://reactjs.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="35" height="35"/>](https://www.mysql.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" width="35" height="35"/>](https://www.haskell.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="35" height="35"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="35" height="35"/>](https://www.typescriptlang.org/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="35" height="35"/>](https://www.mysql.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="35" height="35"/>](https://www.mongodb.com/)
 
 ### Tools that I know/use:
