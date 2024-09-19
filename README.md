@@ -12,7 +12,9 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="35" height="35"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="35" height="35"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="35" height="35"/>](https://www.python.org/)
-<!---[<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="35" height="35"/>](https://dart.dev/)-->
+<!---
+[<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="35" height="35"/>](https://dart.dev/)
+-->
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="35" height="35"/>](https://en.wikipedia.org/wiki/HTML5)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="35" height="35"/>](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="35" height="35"/>](https://reactjs.org/)
