@@ -12,9 +12,6 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="35" height="35"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="35" height="35"/>](https://en.wikipedia.org/wiki/C%2B%2B)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="35" height="35"/>](https://www.python.org/)
-<!---
-[<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="35" height="35"/>](https://dart.dev/)
--->
 [<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="35" height="35"/>](https://en.wikipedia.org/wiki/HTML5)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" width="35" height="35"/>](https://en.wikipedia.org/wiki/CSS)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="35" height="35"/>](https://reactjs.org/)
@@ -23,6 +20,9 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="35" height="35"/>](https://www.typescriptlang.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="35" height="35"/>](https://www.mysql.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" width="35" height="35"/>](https://www.mongodb.com/)
+<!---
+[<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" width="35" height="35"/>](https://dart.dev/)
+-->
 
 ### Tools that I know/use:
 [<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="35" height="35"/>](https://www.linux.org/)
